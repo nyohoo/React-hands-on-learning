@@ -18,4 +18,3 @@ export default function StarRating({ style = {}, totalStars = 5, ...props }) {
     </div>
   );
 }
-
